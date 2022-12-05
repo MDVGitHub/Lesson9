@@ -1,0 +1,5 @@
+/Users/dmitriymakarov/Desktop/C##/Lesson9/dz9_3/obj/Debug/net6.0/dz9_3.csproj.AssemblyReference.cache
+/Users/dmitriymakarov/Desktop/C##/Lesson9/dz9_3/obj/Debug/net6.0/dz9_3.GeneratedMSBuildEditorConfig.editorconfig
+/Users/dmitriymakarov/Desktop/C##/Lesson9/dz9_3/obj/Debug/net6.0/dz9_3.AssemblyInfoInputs.cache
+/Users/dmitriymakarov/Desktop/C##/Lesson9/dz9_3/obj/Debug/net6.0/dz9_3.AssemblyInfo.cs
+/Users/dmitriymakarov/Desktop/C##/Lesson9/dz9_3/obj/Debug/net6.0/dz9_3.csproj.CoreCompileInputs.cache
